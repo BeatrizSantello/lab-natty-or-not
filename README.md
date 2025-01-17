@@ -1,10 +1,11 @@
 ## FGTS e a GenZ - Segurança Financeira e Transformação Social
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora a importância do FGTS para a população brasileira e nos faz pensar sobre como a geração Z pode ser impactada por esse fundo de mais de 58 anos de existência.
+Este e-book de 5 páginas explora a importância do FGTS para a população brasileira e nos faz pensar sobre como a geração Z pode ser impactada por esse Fundo de mais de 58 anos de existência.
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização e criação da arte visual da capa e
+
 Ferramentas Microsoft Word para edição.
 
 ## 🧐 Processo de Criação
