@@ -14,4 +14,4 @@ Utilizei o chatGPT para entender sobre a geração Z e os estudos de como essa g
 O conteúdo do e-book nos convida a pensar sobre como um Fundo antigo pode impactar essa nova geração que está entrando no mercado de trabalho e, diferentemente das gerações anteriores, não tem a pretensão de possuir bens materiais como a casa própria, produto em que o Fundo de Garantia é tão utilizado pela população brasileira.
 
 ## 💭 Reflexão
-Criar o e-book possibilitou materializar o quanto a IA é útil e pode ser bem aproveitada.
+Criar o e-book possibilitou materializar o quanto a IA é útil e pode ser bem aproveitada para tratar de temas tão diversos.
