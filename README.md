@@ -4,9 +4,8 @@
 Este e-book de 5 páginas explora a importância do FGTS para a população brasileira e nos faz pensar sobre como a geração Z pode ser impactada por esse Fundo de mais de 58 anos de existência.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização e criação da arte visual da capa e
-
-Ferramentas Microsoft Word para edição.
+IA Generativa <__ChatGPT__> para roteirização e criação da arte visual da capa e
+Ferramenta __Microsoft Word__ para edição.
 
 ## 🧐 Processo de Criação
 Utilizei o chatGPT para entender sobre a geração Z e se já há estudos de como essa geração enxerga o FGTS. Com isso, o conteúdo foi estruturado e as ideias foram ajustadas de forma inteligível e conexa. A mesma ferramenta ChatGPT foi utilizada para criar uma capa descontraída, aderente à GenZ, mas conectada com o Fundo de Garantia. A edição, por fim, foi feita na ferramenta Microsoft Word por ser de manuseio amigável e amplamente difundida.
